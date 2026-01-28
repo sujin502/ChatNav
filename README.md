@@ -6,8 +6,9 @@
 **让 AI 长对话更易管理！** 
 ChatNav 为各大主流 AI 平台的网页版添加沉浸式侧边栏目录，支持自动生成大纲、一键回看历次提问和精美毛玻璃 UI，显著提升长文对话体验。
 
-![Preview Image](INSERT_IMAGE_LINK_HERE)
-*(请在此处插入效果预览图)*
+<img width="2354" height="1558" alt="微信图片_20260128165448_79_11" src="https://github.com/user-attachments/assets/19e4f2de-d044-4ed6-8dde-05591d1917c3" />
+
+<img width="2308" height="1502" alt="微信图片_20260128165507_80_11" src="https://github.com/user-attachments/assets/a6198f78-be4e-40c4-85f4-9acf32df3b45" />
 
 ## ✨ 核心功能
 
